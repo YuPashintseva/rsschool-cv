@@ -1,0 +1,37 @@
+/*------------------------------------*/
+/*HEADER*/
+/*------------------------------------*/
+
+body {
+    margin: 30px 120px
+}
+
+header h1 {
+    float: left;
+}
+
+.cv-photo {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+.clear {
+clear: left;
+}
+
+h2, h1 {
+    color: #4b8e09;
+}
+/*------------------------------------*/
+/*LINKS*/
+/*------------------------------------*/
+
+a:link,
+a:visited {
+    color: #000000;
+}
+
+a:hover {
+    color: #4b8e09;
+}
