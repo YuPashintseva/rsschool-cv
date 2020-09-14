@@ -39,10 +39,10 @@ function findDup( arr ){
 	* Software Engineer in Crystal Spring, Almaty (Kazakhstan) 15 Jul 2017–Present
 
 ## Education: 
-	* Bachelor’s degree in Computing Systems and Software Engineering in Almaty University of Power Engineering, Almaty (Kazakhstan) 
-	* [Udemy course Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/certificate/UC-6c7e64a5-0e77-44ff-a512-4a82b9938af2/)
-	* [Udemy course Modern React with Redux](https://www.udemy.com/certificate/UC-b6391e05-8d32-4603-a907-ffbcec2186ea/)
-	* [Udemy course The Modern Python 3 Bootcamp](https://www.udemy.com/certificate/UC-CHFI412Z/)
+Bachelor’s degree in Computing Systems and Software Engineering in Almaty University of Power Engineering, Almaty (Kazakhstan) 
+[Udemy course Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/certificate/UC-6c7e64a5-0e77-44ff-a512-4a82b9938af2/)
+[Udemy course Modern React with Redux](https://www.udemy.com/certificate/UC-b6391e05-8d32-4603-a907-ffbcec2186ea/)
+[Udemy course The Modern Python 3 Bootcamp](https://www.udemy.com/certificate/UC-CHFI412Z/)
 
 ## English:
 Level B2 (IELTS 6.5)
