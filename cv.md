@@ -4,18 +4,18 @@
 	* mobile phone: 8(778)422-30-93
 	* email: juliyapashintseva@gmail.com
 
-## Personal Summary:
-   Team player and software engineer with a can-do attitude, good time management skills, strong user focus, hands-on experience in all the steps of software development from negotiations with customers to implementation of the final product.
+## Summary:
+Team player and software engineer with a can-do attitude, good time management skills, strong user focus, hands-on experience in all the steps of software development from negotiations with customers to implementation of the final product.
 
 ## Skills:
-	* Team working, leadership, creative thinking, interpersonal skills, self-motivated
-	* Oracle Database administration
-	* Tuning of Database requests
-	* Sql and Pl/Sql
-	* Oracle Business Intelligence 
-	* Outsystems
-	* Way4
-	* Camunda
+* Team working, leadership, creative thinking, interpersonal skills, self-motivated
+* Oracle Database administration
+* Tuning of Database requests
+* Sql and Pl/Sql
+* Oracle Business Intelligence 
+* Outsystems
+* Way4
+* Camunda
 
 ## Code examples:
 ```javascript
@@ -32,11 +32,11 @@ function findDup( arr ){
   }
 }
 ```
-## Work expirience:
-	* Software Developer in Kazkommertsbank, Almaty (Kazakhstan) 10 Jun 2014–18 Jul 2015
-	* Computer Systems Analyst in Halyk Bank, Almaty (Kazakhstan) 20 Jul 2015–8 Aug 2016
-	* Software Developer in Halyk Bank, Almaty (Kazakhstan) 11 Aug 2016–6 Jun 2017
-	* Software Engineer in Crystal Spring, Almaty (Kazakhstan) 15 Jul 2017–Present
+## Experience
+* Software Engineer in Crystal Spring, Almaty (Kazakhstan) 15 Jul 2017–Present
+* Software Developer in Halyk Bank, Almaty (Kazakhstan) 11 Aug 2016–6 Jun 2017
+* Computer Systems Analyst in Halyk Bank, Almaty (Kazakhstan) 20 Jul 2015–8 Aug 2016
+* Software Developer in Kazkommertsbank, Almaty (Kazakhstan) 10 Jun 2014–18 Jul 2015
 
 ## Education: 
 1. Bachelor’s degree in Computing Systems and Software Engineering in Almaty University of Power Engineering, Almaty (Kazakhstan) 
